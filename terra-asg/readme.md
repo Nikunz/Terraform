@@ -1,6 +1,6 @@
 # Terraform AWS Infrastructure Configuration #
 
-Markup :  - - - -
+
 
 # Terraform with Autoscaling group #
 This repository contains Terraform code to provision AWS infrastructure resources, including a security group, an autoscaling group, and associated configurations.
