@@ -21,9 +21,19 @@ Before you can use this Terraform code, ensure you have the following prerequisi
 
 ## Usage
 
-1. Clone this repository to your local machine.
-2. Modify the `vars.tf` file to set the desired values for your Elastic Beanstalk application and environment.
-3. Run the following commands in the repository directory:
+1. 1. Clone this repository to your local machine.
+
+   ```bash
+   git clone <repository_url>
+   ```
+
+2. Change into the cloned directory.
+
+   ```bash
+   cd <repository_directory>
+   ```
+3. Modify the `vars.tf` file to set the desired values for your Elastic Beanstalk application and environment.
+4. Run the following commands in the repository directory:
 
 ```bash
 terraform init
