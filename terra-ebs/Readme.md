@@ -65,10 +65,3 @@ The `provider.tf` file specifies the AWS provider configuration with the followi
 
 Modify the `provider.tf` file if you need to use a different AWS region or profile.
 
-## Contributing
-
-If you find issues with this code or have improvements to suggest, please feel free to open an issue or submit a pull request. Contributions are welcome!
-
-## License
-
-This code is licensed under the [MIT License](LICENSE). Feel free to use it as a starting point for your own projects.
