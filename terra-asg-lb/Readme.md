@@ -1,4 +1,5 @@
 ## Terraform AWS ASG and LB Deployment ##
+
 This Terraform configuration deploys an AWS infrastructure consisting of a Virtual Private Cloud (VPC), public and private subnets, an Internet Gateway, a Network Address Translation (NAT) Gateway, an Application Load Balancer (ALB), an Auto Scaling Group (ASG), and associated security groups. The purpose of this infrastructure is to host web applications with high availability.
 
 # Prerequisites
